@@ -4,8 +4,8 @@
 - 🌱 I’m currently learning full stack development and data science
 - 🤝 I’m looking to collaborate on anything with software / web / application development
 - 📫 How to reach me: twitter - [@vsaravind01](https://twitter.com/vsaravind01)
-- 😄 Pronouns: you can call me SA
-- 👨‍💻 Hobby: Trying out new tech stacks | listening & composing music 🎹 | video games 🎮
+- 😄 Interests : music🎶 | programming👨‍💻 | cricket🏏 | movies🍿
+- 🚴‍♂️ Hobby : Trying out new tech stacks | listening & composing music🎹 | video games🎮
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -90,6 +90,10 @@
 </a>
 </p>
 
+<hr>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaravind01&show_icons=true&locale=en" alt="vsaravind01" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vsaravind01&" alt="vsaravind01" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaravind01&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="vsaravind01" /> 
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vsaravind01&theme=tokyonight&hide_border=true&fire=DD5035&ring=CF7B1DD4" alt="vsaravind01" />
+</p>
+
