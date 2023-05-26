@@ -73,8 +73,6 @@
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  alt="elasticsearch" width="40" height="40"/> 
   </a>
-</p>
-<p align="center">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" alt="pandas" width="40" height="40" />
   </a>
