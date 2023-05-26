@@ -37,8 +37,14 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=express" alt="express" style="color: white;" width="40" height="40" />
   </a>
+  <a href="https://nestjs.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nestjs" alt="nestjs" width="40" height="40" />
+  </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40" />
+  </a>
+  <a href="https://nextjs.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
   </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=materialui" alt="material-ui" width="40" height="40" />
@@ -58,11 +64,19 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40" />
   </a>
+  <a href="https://www.docker.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" />
+  </a>
   <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg"  alt="elasticsearch" width="40" height="40"/> 
   </a>
+</p>
+<p align="center">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+    <img src="https://pandas.pydata.org/static/img/pandas_secondary_white.svg" alt="pandas" width="40" height="40" />
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
@@ -72,19 +86,22 @@
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">To connect with me:</h3>
 <p align="left">
-<p align="left">
-  <a href="https://twitter.com/vsaravind01" target="blank">
-    <img src="https://img.shields.io/twitter/follow/vsaravind01?logo=twitter&style=for-the-badge" alt="vsaravind01" />
+  <p align="left">
+    <a href="https://twitter.com/vsaravind01" target="blank">
+      <img src="https://img.shields.io/twitter/follow/vsaravind01?logo=twitter&style=for-the-badge" alt="vsaravind01" />
+    </a>
+  </p>
+  <a href="https://linkedin.com/in/sudharsan-aravind-v-18826a1aa" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sudharsan-aravind-v-18826a1aa" height="30" width="40" />
   </a>
-</p>
-<a href="https://linkedin.com/in/sudharsan-aravind-v-18826a1aa" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sudharsan-aravind-v-18826a1aa" height="30" width="40" />
-</a>
-<a href="https://instagram.com/sudharsan_aravind" target="blank">
-  <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sudharsan_aravind" height="30" width="40" />
-</a>
+  <a href="https://instagram.com/sudharsan_aravind" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sudharsan_aravind" height="30" width="40" />
+  </a>
+  <a href="https://vsaravind01.github.io" target="blank">
+    vsaravind01.github.io
+  </a>
 </p>
 
 <hr>
