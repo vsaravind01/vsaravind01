@@ -97,8 +97,8 @@
   <a href="https://instagram.com/sudharsan_aravind" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sudharsan_aravind" height="30" width="40" />
   </a>
-  <a href="https://vsaravind01.github.io" target="blank">
-    vsaravind01.github.io
+  <a href="https://vsaravind.me" target="blank">
+    vsaravind.me
   </a>
 </p>
 
