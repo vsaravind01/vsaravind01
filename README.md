@@ -104,7 +104,7 @@
 
 <p align="center">
   <a href="https://twitter.com/vsaravind01" target="blank">
-    <img align="center" src="https://img.shields.io/badge/@vsaravind-black?logo=x" alt="vsaravind01" />
+    <img align="center" src="https://img.shields.io/badge/@vsaravind-white?logo=x&logoColor=black" alt="vsaravind01" />
   </a>
   <a href="https://linkedin.com/in/sudharsan-aravind-v-18826a1aa" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="sudharsan-aravind-v-18826a1aa" height="30" width="40" />
@@ -113,7 +113,7 @@
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="sudharsan_aravind" height="30" width="40" />
   </a>
   <a href="https://vsaravind.me" target="blank">
-    vsaravind.me
+    <img align="center" src="https://img.shields.io/badge/vsaravind.me-white" alt="vsaravind.me" />
   </a>
 </p>
 
