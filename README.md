@@ -49,6 +49,9 @@
   <a href="https://nextjs.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40" />
   </a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40" />
+  </a>
   <a href="https://mui.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=materialui" alt="material-ui" width="40" height="40" />
   </a>
@@ -57,6 +60,9 @@
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40" />
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40" />
@@ -75,6 +81,9 @@
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40" />
+  </a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=azure" alt="aws" width="40" height="40" />
   </a>
   <a href="https://tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40" />
