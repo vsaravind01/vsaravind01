@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sudharsan Aravind</h1>
 
-- 📫 How to reach me: twitter - [@vsaravind01](https://twitter.com/vsaravind01)
-- 😄 Interests : music🎶 | programming👨‍💻 | cricket🏏 | movies🍿
-- 🚴‍♂️ Hobby : Exploring latest technology | listening & composing music🎹 | video games🎮
+- 📫 How to reach me: X - [@vsaravind01](https://x.com/vsaravind01)
+- 😄 Interests : music🎶 | programming👨‍💻 | automobile🏎️ | movies🎬
+- 🚴‍♂️ Hobby : Scrolling through code👨‍💻 | Setting up neovim🤓 | Reading📖 | listening to music🎹
 
 
 <h3 align="left">Languages and Tools:</h3>
