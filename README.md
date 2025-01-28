@@ -106,7 +106,7 @@
 
 <p align="center">
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsaravind01&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="vsaravind01" style="width: 380px;"/>  -->
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=vsaravind01&theme=tokyonight&hide_border=true&fire=DD5035&ring=CF7B1DD4" alt="vsaravind01" style="width: 400px;"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vsaravind01&theme=onedark-duo&border_radius=5&short_numbers=true&mode=weekly&card_width=400&fire=EB5920" alt="vsaravind01"/>
 </p>
 
 <hr>
