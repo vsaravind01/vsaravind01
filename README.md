@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudharsan Aravind</h1>
 
 - 📫 Reach me @ X - [@vsaravind01](https://x.com/vsaravind01)
-- 😄 Interests > music🎶 | programming👨‍💻 | automobile🏎️ | movies🎬
-- 🚴‍♂️ Hobby } Scrolling through code👨‍💻 | Setting up neovim🤓 | Reading📖 | listening to music🎹
-
+Trying to make the world a better place with code.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
